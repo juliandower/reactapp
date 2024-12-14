@@ -145,12 +145,17 @@ function App() {
     // All logos and text are defined here
     const items = [
       { type: 'text', label: 'Software' },      // Text ball 1
-      { type: 'text', label: 'Sound' },         // Text ball 2
+      { type: 'text', label: 'Music' },         // Text ball 2
       { type: 'text', label: 'Design' },        // Text ball 3
-      { type: 'text', label: 'Visual' },      // Text ball 4
+      { type: 'text', label: 'Visual' },
+      { type: 'text', label: 'Art' },  
+      { type: 'text', label: 'German' },
+      { type: 'text', label: 'Engineering' }, 
+      { type: 'icon', label: 'Ai' },         // Text ball 4
       { type: 'icon', label: 'ReactNative' },   // Icon ball 1
       { type: 'icon', label: 'Flutter' },       // Icon ball 2
-      { type: 'icon', label: 'Vercel' }         // Icon ball 3
+      { type: 'icon', label: 'Vercel' },
+      { type: 'icon', label: 'Supabase' }        // Icon ball 3
     ];
 
     // Calculate responsive ball sizes based on viewport
