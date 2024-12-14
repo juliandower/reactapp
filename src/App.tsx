@@ -29,7 +29,7 @@ function App() {
     '#00CED1', // Dark turquoise
     '#5F9EA0', // Cadet blue
     '#4682B4', // Steel blue
-    '#008B8B', // Dark cyan
+    '#24A298', // idk
     '#48D1CC', // Medium turquoise
     '#00FFCD'  // Bright mint
   ];
@@ -150,7 +150,7 @@ function App() {
       { type: 'text', label: 'Visual' },
       { type: 'text', label: 'Art' },  
       { type: 'text', label: 'German' },
-      { type: 'text', label: 'Engineering' }, 
+      { type: 'text', label: 'EVs' }, 
       { type: 'icon', label: 'Ai' },         // Text ball 4
       { type: 'icon', label: 'ReactNative' },   // Icon ball 1
       { type: 'icon', label: 'Flutter' },       // Icon ball 2
